@@ -1,5 +1,5 @@
-- 👋 2 left hands
-- 👀 blind af
+- 👋 hi
+- 👀 wow
 
 <!---
 Kolibrizante/Kolibrizante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
